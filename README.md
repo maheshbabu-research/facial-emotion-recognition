@@ -1,7 +1,7 @@
 # facial-emotion-recognition
 Facial Emotion Recognition using Deep Learning - (Custom CNN), RESNET
 
-Project Objective:
+**Project Objective**:
 The main purpose of this project is to develop an advanced system for Facial Emotion Detection using computer vision techniques. The goal is to build accurate and efficient models for detecting facial emotions from images, with a focus on achieving high performance using various architectures. The project aims to explore the effectiveness of VGG, RESNET, and Custom CNN models in accurately classifying facial emotions, which has applications in interactive systems and emotional analysis.
 
 Methods Used
